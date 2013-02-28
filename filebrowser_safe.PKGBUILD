@@ -1,4 +1,5 @@
-# Maintainer: fsckd <fsckdaemon@gmail.com>
+# Submitter: fsckd <fsckdaemon@gmail.com>
+# Maintainer: numeral <numerical@gmail.com>
 
 pkgname=django-filebrowser-safe
 pkgver=0.2.17
