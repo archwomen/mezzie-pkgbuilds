@@ -1,7 +1,7 @@
 # Maintainer: fsckd <fsckdaemon@gmail.com>
 
 pkgname=mezzanine
-pkgver=1.3.0
+pkgver=1.4.3
 pkgrel=1
 pkgdesc="An open source content management platform built using the Django framework"
 arch=('any')
